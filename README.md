@@ -18,12 +18,15 @@ Sou apaixonada por tecnologia e sempre estou em busca de novos desafios e aprend
 - **PL/SQL**
 - **SQL Server**
 - **HTML/CSS**
+- **JAVA**
+
 
 ## Ferramentas 🛠️
 - **Visual Studio**
 - **Git/GitHub**
 - **SQL Server**
 - **Postman**
+- **Oracle Developer**
 
 ## O que eu faço 💻
 - Desenvolvimento de sistemas web utilizando **ASP.NET** e **C#**.
