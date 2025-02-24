@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou a Victoria 👋
 
-<!--
-**victoriacsouza/victoriacsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🎓 **Formação**: Engenharia de Software
+- 💻 **Tecnologias**: C#, .NET, JavaScript, HTML, CSS, PL/SQL
+- 🌱 **Atualmente aprendendo**: DevOps, Azure, Microservices
+- 🔧 **Ferramentas**: Visual Studio, Git, GitHub, SQL Server
 
-Here are some ideas to get you started:
+## ✨ O que eu faço:
+- Crio e mantenho sistemas e sites
+- Desenvolvo APIs e integração com bancos de dados
+- Sempre em busca de novos desafios e aprendizados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/victoria-silva01234/)
+- [Email](mailto:cristinasouzavic@gmail.com)
+
+## 🔧 Projetos em destaque:
+- [PetHeaven](https://github.com/victoriacsouza/PetHeaven): Projeto integrador do curso Formação .NET do Senac.
+- [Outro Projeto Legal](#): Descrição do projeto.
+
+## 🌱 Sempre buscando:
+- Explorar novas tecnologias.
+- Ajudar a comunidade de código aberto.
+- Criar soluções práticas e inovadoras.
