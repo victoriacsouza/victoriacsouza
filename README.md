@@ -1,25 +1,42 @@
-# Olá! Eu sou a Victoria 👋
+# Olá, sou Victoria 👋
 
-## 🚀 Sobre mim
-- 🎓 **Formação**: Engenharia de Software
-- 💻 **Tecnologias**: C#, .NET, JavaScript, HTML, CSS, PL/SQL
-- 🌱 **Atualmente aprendendo**: DevOps, Azure, Microservices
-- 🔧 **Ferramentas**: Visual Studio, Git, GitHub, SQL Server
+## Sobre mim
+Sou apaixonada por tecnologia e sempre estou em busca de novos desafios e aprendizados. Atualmente, estou cursando **Engenharia de Software** e focada em aprimorar minhas habilidades e outras ferramentas de desenvolvimento.
 
-## ✨ O que eu faço:
-- Crio e mantenho sistemas e sites
-- Desenvolvo APIs e integração com bancos de dados
-- Sempre em busca de novos desafios e aprendizados
+## Formação Acadêmica
+- **Engenharia de Software** - Cursando na **UNICESUMAR**
+- **Técnico em Informática** - Cursado na **FAETEC-RJ**
 
-## 📫 Como me encontrar:
+## Cursos Extracurriculares
+- **Formação .NET** - **Senac**
+- **Análise de Dados do Google** - **Coursera**
+
+## Tecnologias
+- **C#**
+- **.NET 8.0**
+- **JavaScript**
+- **PL/SQL**
+- **SQL Server**
+- **HTML/CSS**
+
+## Ferramentas
+- **Visual Studio**
+- **Git/GitHub**
+- **SQL Server**
+- **Postman**
+
+
+## O que eu faço
+- Desenvolvimento de sistemas web utilizando **ASP.NET** e **C#**.
+- Criação de **APIs RESTful**.
+- Desenvolvimento de soluções completas, do **front-end** ao **back-end**.
+
+## O que desejo aprender
+- **DevOps** 
+- **Microservices** e **Docker**.
+- **Cloud computing**
+
+## Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/victoria-silva01234/)
-- [Email](mailto:cristinasouzavic@gmail.com)
-
-## 🔧 Projetos em destaque:
-- [PetHeaven](https://github.com/victoriacsouza/PetHeaven): Projeto integrador do curso Formação .NET do Senac.
-- [Outro Projeto Legal](#): Descrição do projeto.
-
-## 🌱 Sempre buscando:
-- Explorar novas tecnologias.
-- Ajudar a comunidade de código aberto.
-- Criar soluções práticas e inovadoras.
+- [GitHub](https://github.com/victoriacsouza)
+- 📧 - [Email](mailto:cristinasouzavic@gmail.com) || **cristinasouzavic@gmail.com** 
